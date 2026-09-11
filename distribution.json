@@ -6,7 +6,7 @@
       "name": "HasyPvP",
       "address": "91.197.6.226",
       "port": 25673,
-      "minecraftVersion": "1.7.10",
+      "minecraftVersion": "1.12.2",
       "mainServer": true,
       "autoconnect": true,
       "modules": []
