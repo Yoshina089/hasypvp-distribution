@@ -1,14 +1,14 @@
 {
-    "version": "1.5.0",
+    "version": "1.6.0",
     "servers": [
         {
             "id": "HasyPvP",
             "name": "HasyPvP",
-            "description": "Le serveur PvP faction HasyPvP - Minecraft 1.12.2 avec le shop HasyMarket, la roue de la fortune et le panel admin.",
+            "description": "Le serveur PvP faction HasyPvP - Minecraft 1.12.2 avec le shop HasyMarket, la roue de la fortune et le centre de controle Hasy Staff Nexus.",
             "address": "91.197.6.143",
             "port": 22447,
             "minecraftVersion": "1.12.2",
-            "version": "1.5.0",
+            "version": "1.6.0",
             "mainServer": true,
             "autoconnect": true,
             "modules": [
@@ -262,8 +262,8 @@
                         "value": true
                     },
                     "artifact": {
-                        "size": 126250,
-                        "MD5": "7a29e9ca6a1c2b9afe8f08a942310a30",
+                        "size": 179827,
+                        "MD5": "f9111eb61199d6a7e59bca0987edf1b8",
                         "url": "https://raw.githubusercontent.com/Yoshina089/hasypvp-distribution/main/mods/hasymarket-0.1.0.jar"
                     }
                 }
