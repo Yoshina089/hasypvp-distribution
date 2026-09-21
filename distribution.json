@@ -1,5 +1,5 @@
 {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "servers": [
         {
             "id": "HasyPvP",
@@ -8,7 +8,7 @@
             "address": "91.197.6.143",
             "port": 22447,
             "minecraftVersion": "1.12.2",
-            "version": "1.3.0",
+            "version": "1.4.0",
             "mainServer": true,
             "autoconnect": true,
             "modules": [
@@ -262,8 +262,8 @@
                         "value": true
                     },
                     "artifact": {
-                        "size": 117233,
-                        "MD5": "f33af45e21724ba616fca50fdc844b45",
+                        "size": 123940,
+                        "MD5": "eae73040fc49bc007654d31df99abe22",
                         "url": "https://raw.githubusercontent.com/Yoshina089/hasypvp-distribution/main/mods/hasymarket-0.1.0.jar"
                     }
                 }
