@@ -1,5 +1,5 @@
 {
-    "version": "1.8.0",
+    "version": "1.9.0",
     "servers": [
         {
             "id": "HasyPvP",
@@ -8,7 +8,7 @@
             "address": "91.197.6.143",
             "port": 22447,
             "minecraftVersion": "1.12.2",
-            "version": "1.8.0",
+            "version": "1.9.0",
             "mainServer": true,
             "autoconnect": true,
             "modules": [
@@ -265,6 +265,20 @@
                         "size": 200257,
                         "MD5": "3356c7fd0c47b00894fe005f6dd00906",
                         "url": "https://raw.githubusercontent.com/Yoshina089/hasypvp-distribution/main/mods/hasymarket-0.1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.mrcrayfish:controllable:0.11.2",
+                    "name": "Controllable (pour jouer \u00e0 la manette)",
+                    "type": "ForgeMod",
+                    "required": {
+                        "value": false,
+                        "def": true
+                    },
+                    "artifact": {
+                        "size": 5486325,
+                        "MD5": "958aa1af2f6667983e46d4ca2f9295d1",
+                        "url": "https://raw.githubusercontent.com/Yoshina089/hasypvp-distribution/main/mods/controllable-0.11.2-1.12.2.jar"
                     }
                 }
             ]
